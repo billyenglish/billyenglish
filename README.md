@@ -6,7 +6,7 @@ I'm Billy from Atlanta, GA, and I'm working my work towards being a fullstack De
 
 # About
 
-```
+``` yaml
   name: Billy English
   located_in: Atlanta, GA
   current_job: Open for Employment
