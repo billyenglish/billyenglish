@@ -16,5 +16,19 @@ I'm Billy from Atlanta, GA, and I'm working my work towards being a fullstack De
       "Associate Degree in Computer Science"
       "Meta Front-End Developer Certificate"
     ]
-  
+
+  fields_of_interest:
+    [
+      "Web Development",
+      "Front-End Development",
+      "Full Stack",
+      "Robotics",
+      "Blockchain",
+      "A.I.",
+    ]
+
+  technical_background:
+    [
+      
+    ]
 ```
