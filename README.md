@@ -26,9 +26,4 @@ I'm Billy from Atlanta, GA, and I'm working my work towards being a fullstack De
       "Blockchain",
       "A.I.",
     ]
-
-  technical_background:
-    [
-      
-    ]
 ```
