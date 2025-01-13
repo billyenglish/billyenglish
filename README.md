@@ -1,1 +1,1 @@
-<h1 style="color;">Hi</h1>
+<h1 style="color:blue;">A Blue Heading</h1>
