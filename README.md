@@ -1,3 +1,3 @@
 # Hey, I'm Billy English
 
-### Student of Life ()
+### Student of Life (Software Engineer/Hardcore Gamer/)
