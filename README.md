@@ -1,3 +1,3 @@
-&#9774 # Hey, I'm Billy English
+# Hey, ✌🏾I'm Billy English
 
-### Student of Life (Software Engineer/Hardcore Gamer/)
+## Student of Life (Software Engineer/Hardcore Gamer/M)
