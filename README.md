@@ -1,3 +1,3 @@
-# &#9774 Hey, I'm Billy English
+&#9774 # Hey, I'm Billy English
 
 ### Student of Life (Software Engineer/Hardcore Gamer/)
