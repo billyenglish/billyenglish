@@ -1,4 +1,4 @@
-<h1 style="color:red;">Hey there, I'm Billy English ✌🏾</h1>
+<h1 style="font-weight:300;">Hey there, I'm Billy English ✌🏾</h1>
 
 **`Student of Life (Software Engineer/Hardcore Gamer/Aspiring Chess Master)`**
 
