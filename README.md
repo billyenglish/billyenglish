@@ -2,7 +2,7 @@
 
 **`Student of Life (Software Engineer/Hardcore Gamer/Aspiring Chess Master)`**
 
-I'm Software Engineer that's current looking for entry-level position with an Understanding of Cybersecurity. My Current Job is Leveling up my skills and creating amazing projects.
+I'm Software Engineer that's current looking for entry-level position. My Current Job is Leveling up my skills and creating amazing projects.
 
 ---
 
