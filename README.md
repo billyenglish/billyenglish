@@ -2,7 +2,7 @@
 
 **`Student of Life (Software Engineer/Hardcore Gamer/Aspiring Chess Master)`**
 
-I'm Software Engineer that's current looking for entry-level position with an Understanding of Cybersecurity. My Current Job is Leveling up my skills.
+I'm Software Engineer that's current looking for entry-level position with an Understanding of Cybersecurity. My Current Job is Leveling up my skills and creating amazing projects.
 
 ---
 
@@ -21,6 +21,8 @@ I'm Software Engineer that's current looking for entry-level position with an Un
 <img align="left" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
 <img align="left" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" />
 <img align="left" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" />
+<img align="left" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" />
+
 
 <br />
 
