@@ -8,4 +8,4 @@ I'm Software Engineer that's current looking for entry-level position with an Un
 
 **`Languages And Tools`**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
