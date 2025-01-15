@@ -1,8 +1,8 @@
-<h1 style="font-weight:300;">Hey there, I'm Billy English ✌🏾</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=72F71C&background=1945FF00&random=true&width=435&lines=Hey+there%2C+I'm+Billy+English+%E2%9C%8C%F0%9F%8F%BE" alt="Typing SVG" /></a>
 
 **`Student of Life (Software Engineer/Hardcore Gamer/Aspiring Chess Master)`**
 
-I'm Software Engineer that's current looking for entry-level position with an Understanding of Cybersecurity. I'm current working on building out my portfolio using HTML, CSS, JavaScript, Wepback, React, and NodeJS. I'm looking at ways to incorporate some CSS Libraries (LESS, SASS, Tailwind, Bulma, and Bootstrap). I'm looking to create more projects in the future that deals with real world problems. In addition, I'll be looking forward to adding some other projects using different programming languages (Java, C#, Python, Swift, C, and more).
+I'm Software Engineer that's current looking for entry-level position with an Understanding of Cybersecurity. My Current Job is Leveling up my skills.
 
 ---
 
