@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Billy English ✌🏾</h1>
+<h1 style="color:red;">Hey there, I'm Billy English ✌🏾</h1>
 
 **`Student of Life (Software Engineer/Hardcore Gamer/Aspiring Chess Master)`**
 
@@ -8,4 +8,4 @@ I'm Software Engineer that's current looking for entry-level position with an Un
 
 **`Languages And Tools`**
 
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Java" />
