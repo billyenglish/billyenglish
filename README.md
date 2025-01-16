@@ -34,3 +34,6 @@ I'm Software Engineer that's current looking for entry-level position. My Curren
 * Hardcore Game PS5/Xbox Series X/PC.
 * I love playing chess.
 * I enjoy movies, tv series and anime.
+
+---
+
