@@ -30,4 +30,4 @@ I'm Software Engineer that's current looking for entry-level position. My Curren
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=72F71C&background=1945FF00&random=true&width=435&lines=About+Me+Intro+!!!" alt="Typing SVG" /></a>
 
-* I love learning anything about techology.
+# * I love learning anything about techology.
