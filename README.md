@@ -62,5 +62,5 @@ I’m always curious and often find myself researching new software tools or lan
 
 ### Contact Me
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: billyenglish6212@outlook.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/billyenglish)
