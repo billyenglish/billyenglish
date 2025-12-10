@@ -56,8 +56,8 @@ I’m always curious and often find myself researching new software tools or lan
 
 - **[Little Lemon](https://github.com/billyenglish/little-lemon)** – Restaurant web app built with React, TypeScript, and Tailwind CSS  
 - **[Resume Builder](https://github.com/billyenglish/resume-builder)** – Tool to generate resumes dynamically using JavaScript  
-- **[Weather Dashboard](https://github.com/billyenglish/weather-dashboard)** – API-driven weather app using JavaScript and OpenWeatherMap API  
-- **[Click Up Clone](https://github.com/billyenglish/clickup-clone)** – Task management app mimicking ClickUp, built with React, TypeScript, and Node.js
+- **[Weather Dashboard](https://github.com/billyenglish/weather_app)** – API-driven weather app using JavaScript and OpenWeatherMap API  
+- **[Click Up Clone](https://github.com/billyenglish/Click_Up_Clone)** – Task management app mimicking ClickUp, built with React, TypeScript, and Node.js
 
 ---
 
