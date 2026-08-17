@@ -90,8 +90,6 @@
 
 <hr />
 
-<hr />
-
 <h3>
   🖥️ Data Center Asset Management System
 </h3>
@@ -128,8 +126,6 @@
 
 <hr />
 
-<hr />
-
   <h3>
     🌐 Network Topology Visualizer
   </h3>
@@ -145,8 +141,7 @@
   <p>
     Tech: React · TypeScript · Node.js · REST APIs
   </p>
-<hr />
-
+  
 <hr />
   <h3>
     🚀 Deployment / CI-CD Dashboard
@@ -163,7 +158,9 @@
   <p>
     Tech: TypeScript · Node.js · REST APIs · GitHub Actions · Docker
   </p>
+  
 <hr />
+
   <h3>
     🛒 E-Commerce Application
   </h3>
