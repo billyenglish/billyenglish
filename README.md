@@ -176,7 +176,6 @@
   <p>
     Tech: Next.js · TypeScript · Node.js · SQL · Prisma
   </p>
-<hr />
 
 <hr />
 
@@ -220,7 +219,5 @@
 <hr />
 
 <h2>📫 Connect With Me</h2>
-
-Connect With Me
 
 <p align="center"> <a href="https://billyportfolio-ten.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/billyenglish">LinkedIn</a> • <a href="mailto:billyenglish6212@outlook.com">Email</a> </p>
