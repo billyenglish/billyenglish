@@ -116,3 +116,23 @@
 </ul>
 
 <hr />
+
+<h2>🎮 Outside of Coding</h2>
+
+<ul>
+  <li>🎮 Gaming — PS5, Xbox Series X, and PC</li>
+  <li>♟️ Chess</li>
+  <li>🎬 Movies & TV</li>
+  <li>🍿 Anime</li>
+  <li>🔬 Exploring new technology</li>
+</ul>
+
+<hr />
+
+<h2>📫 Connect With Me</h2>
+
+Connect With Me
+
+<p align="center"> <a href="https://billyportfolio-ten.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/billyenglish
+
+">LinkedIn</a> • <a href="mailto:billyenglish6212@outlook.com">Email</a> </p>
