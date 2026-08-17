@@ -89,3 +89,30 @@
 </p>
 
 <hr />
+
+<h3>
+  🎯 Currently Building
+</h3>
+
+<ul>
+  <li>
+    Full-stack web applications
+  </li>
+  <li>
+    TypeScript projects
+  </li>
+  <li>
+    Backend APIs
+  </li>
+  <li>
+    Database-driven applications
+  </li>
+  <li>
+    Production-quality portfolio projects
+  </li>
+  <li>
+    Stronger software architecture and development practices
+  </li>
+</ul>
+
+<hr />
