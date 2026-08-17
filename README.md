@@ -69,3 +69,9 @@
 <p>
   A full-stack infrastructure monitoring application designed to display system and infrastructure information.
 </p>
+
+<p>
+  TypeScript · Node.js · REST APIs · Linux
+</p>
+
+<hr />
