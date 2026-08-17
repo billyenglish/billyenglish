@@ -75,3 +75,17 @@
 </p>
 
 <hr />
+
+<h3>
+  💬 Message Board
+</h3>
+
+<p>
+  A full-stack message board application focused on authentication, API development, database integration, and user interaction.
+</p>
+
+<p>
+  React · TypeScript · Node.js · Express · MongoDB
+</p>
+
+<hr />
