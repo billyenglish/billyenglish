@@ -9,3 +9,9 @@
 <p>
   Currently working with React, TypeScript, Next.js, Node.js, and REST APIs, while continuing to expand my backend and database knowledge.
 </p>
+
+<hr />
+
+.
+
+<h2>🛠️ Technologies & Tools</h2>
