@@ -90,6 +90,99 @@
 
 <hr />
 
+<hr />
+
+<h3>
+  🖥️ Data Center Asset Management System
+</h3>
+
+<p>
+  Asset tracking and management platform
+</p>
+
+<p>
+  Demonstrates CRUD operations, asset lifecycle management, database relationships, search/filtering, and business logic.
+</p>
+
+<p>
+  Tech: React · TypeScript · Node.js · SQL
+</p>
+
+<hr />
+
+<h3>
+  🎫 Incident / Ticket Management System
+</h3>
+
+<p>
+  IT incident and ticket management platform
+</p>
+
+<p>
+  Demonstrates ticket workflows, prioritization, status management, user roles, filtering, and backend business logic.
+</p>
+
+<p>
+  Tech: React · TypeScript · Node.js · SQL
+</p>
+
+<hr />
+
+<hr />
+
+  <h3>
+    🌐 Network Topology Visualizer
+  </h3>
+
+  <p>
+    This one could become one of your most interesting projects because it connects your software skills with networking/infrastructure         knowledge.
+  </p>
+
+  <p>
+    Demonstrates data visualization, network concepts, interactive UI, and potentially graph-based data structures.
+  </p>
+
+  <p>
+    Tech: React · TypeScript · Node.js · REST APIs
+  </p>
+<hr />
+
+<hr />
+  <h3>
+    🚀 Deployment / CI-CD Dashboard
+  </h3>
+
+  <p>
+    Application deployment and CI/CD monitoring platform
+  </p>
+
+  <p>
+    Demonstrates deployment workflows, automation, build pipelines, status monitoring, logs, and DevOps concepts.
+  </p>
+
+  <p>
+    Tech: TypeScript · Node.js · REST APIs · GitHub Actions · Docker
+  </p>
+<hr />
+  <h3>
+    🛒 E-Commerce Application
+  </h3>
+
+  <p>
+    Full-stack e-commerce platform
+  </p>
+
+  <p>
+    Demonstrates product management, shopping cart functionality, authentication, orders, database relationships, and potentially payment       integration.
+  </p>
+
+  <p>
+    Tech: Next.js · TypeScript · Node.js · SQL · Prisma
+  </p>
+<hr />
+
+<hr />
+
 <h3>
   🎯 Currently Building
 </h3>
