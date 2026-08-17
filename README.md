@@ -56,6 +56,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<hr />
+
 <h2>
   🚀 Featured Projects
 </h2>
+
+<h3>
+  📊 Infrastructure Dashboard
+</h3>
+
+<p>
+  A full-stack infrastructure monitoring application designed to display system and infrastructure information.
+</p>
