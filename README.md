@@ -12,6 +12,4 @@
 
 <hr />
 
-.
-
 <h2>🛠️ Technologies & Tools</h2>
