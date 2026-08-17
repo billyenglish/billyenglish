@@ -133,6 +133,4 @@
 
 Connect With Me
 
-<p align="center"> <a href="https://billyportfolio-ten.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/billyenglish
-
-">LinkedIn</a> • <a href="mailto:billyenglish6212@outlook.com">Email</a> </p>
+<p align="center"> <a href="https://billyportfolio-ten.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/billyenglish">LinkedIn</a> • <a href="mailto:billyenglish6212@outlook.com">Email</a> </p>
